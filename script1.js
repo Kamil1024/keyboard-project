@@ -101,3 +101,4 @@ domDef.paste.addEventListener("input",e => {
 domDef.button_paste.addEventListener("click",()=>handleClick())
 // when user write in second textarea
 domDef.insertArea.addEventListener("input",e=>handleInsert(e.target.value))
+alert("warning: use minimum volume of Your sounds")
